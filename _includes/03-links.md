@@ -1,1 +1,1 @@
-![Image of privateinvestocat](https://octodex.github.com/images/privateinvestocat.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
